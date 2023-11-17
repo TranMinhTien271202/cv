@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<!-- <script setup lang="ts">
 import LanguageCardItem from './LanguageCardItem.vue';
 import { useResumeStore } from '@/stores/ResumeStore';
 import { storeToRefs } from 'pinia';
@@ -12,4 +12,4 @@ const { resume } = storeToRefs(resumeStore);
       <LanguageCardItem v-for="(item, index) in resume.language" :key="index" :item="item" />
     </div>
   </div>
-</template>
+</template> -->

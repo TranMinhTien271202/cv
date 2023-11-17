@@ -1,0 +1,32 @@
+{
+  "resume": "Chương trình giảng dạy",
+  "information": "Thông tin bản thân",
+  "skills": "Kỹ năng",
+  "language": "Ngôn ngữ",
+  "about": "Giới thiệu",
+  "experience": "Kinh nghiệm",
+  "volunteer": "Công việc tình nguyện",
+  "education": "Học tập",
+  "license": "Giấy phép và Chứng chỉ",
+  "project": "Dự án",
+  "credential": "Chứng chỉ",
+  "credential_code": "Mã thông tin xác thực:",
+  "settings": {
+    "title": "cài đặt",
+    "theme": "Tema",
+    "dark_mode": "Bật chế độ tối?",
+    "en": "Tiếng anh"
+  },
+  "menu": {
+    "experience": "Kinh nghiệm",
+    "education": "Học tập",
+    "project": "Dự án"
+  },
+  "paginate": {
+    "count": "Hiển thị của {first} đến {last} trong {total} kết quả",
+    "previous_page": "Trang trước",
+    "next_page": "Trang tiếp theo",
+    "first_page": "Trang đầu tiên",
+    "last_page": "Trang cuối"
+  }
+}

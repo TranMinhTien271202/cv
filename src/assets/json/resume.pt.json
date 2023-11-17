@@ -1,0 +1,212 @@
+{
+  "profile": {
+    "name": "Trần Minh Tiến",
+    "job": "",
+    "avatar": "img/profile/me.jpg",
+    "aboutMe": "Tôi là Trần Minh Tiến...",
+    "socialNetwork": [
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/minhtien271202/"
+      },
+      {
+        "name": "intagrams",
+        "url": "https://www.instagram.com/minhtieens.02/"
+      }
+    ]
+  },
+  "cv": {
+    "icon": "DocumentTextIcon",
+    "name": "PDF & DOC",
+    "value": "Bill Gates",
+    "url": "https://dl.lanno.dev/share/GppwRUSq0tOPCjWy/files/703b5c3a-ff83-4ce9-8607-fc86d0ac09eb"
+  },
+  "information": [
+    {
+      "icon": "EnvelopeIcon",
+      "name": "Địa chỉ Email",
+      "value": "tienbg1123a@gmail.com"
+    },
+    {
+      "icon": "CakeIcon",
+      "name": "Ngày sinh",
+      "value": "27/12/2002"
+    },
+    {
+      "icon": "DevicePhoneMobileIcon",
+      "name": "Số điện thoại",
+      "value": "0399664320"
+    },
+    {
+      "icon": "ComputerDesktopIcon",
+      "name": "Dạng công việc",
+      "value": "Toàn thời gian"
+    }
+  ],
+  "skill": [
+    "HTML",
+    "CSS",
+    "PHP",
+    "JavaScript",
+    "Git",
+    "Bootstrap",
+    "Tailwind",
+    "Laravel",
+    "Vue js",
+    "Jquery",
+    "Wordpress"
+  ],
+  "language": [
+    {
+      "name": "English",
+      "code": "pt-BR",
+      "flag": "svg/united-states.svg",
+      "level": "Língua nativa"
+    },
+    {
+      "name": "Portuguese",
+      "code": "en-US",
+      "flag": "svg/brazil.svg",
+      "level": "Intermediário"
+    }
+  ],
+  "experience": [
+    {
+      "job": "Thực tập sinh PHP tại VNP Group",
+      "company": "Thực tập sinh",
+      "companyLogo": "img/company/co-chair.jpg",
+      "location": "Hà Nội",
+      "workType": "Toàn thời gian",
+      "start": "08/2022",
+      "end": "01/2023",
+      "description": "Được tiếp xúc với livewire để làm ứng dụng chấm công, làm việc nhóm"
+    },
+    {
+      "job": "Thực tập sinh backend tại Nina soft",
+      "company": "Thực tập sinh",
+      "companyLogo": "img/company/founder.jpg",
+      "location": "Hà Nội",
+      "workType": "Toàn thời gian",
+      "start": "05/2023",
+      "end": "08/2023",
+      "description": "Được làm việc theo nhóm và làm việc với Framework Laravel và Jquery, xây dụng hệ thống CMS và tương tác với api"
+    },
+    {
+      "job": "Thực tập sinh Miraway",
+      "company": "Thực tập sinh",
+      "companyLogo": "img/company/founder.jpg",
+      "location": "Hà Nội",
+      "workType": "Toàn thời gian",
+      "start": "08/2023",
+      "end": "Hiện tại",
+      "description": "Sửa chữa vào bảo trì hệ thống QRX và làm việc với Vue js, Wordpress, sửa lỗi giao diện và tương tác với api"
+    }
+  ],
+  "education": [
+    {
+      "college": "Cao đẳng FPT Polytechnich",
+      "collegeLogo": "img/college/harvard.jpg",
+      "course": "Công nghệ thông tin - Thiết kế Website",
+      "start": "2019",
+      "end": "Hiện tại",
+      "url": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "job": "Team Coordinator",
+      "company": "Green Peace",
+      "companyLogo": "img/company/green-peace.jpg",
+      "location": "New York",
+      "workType": "Remote",
+      "start": "January 2000",
+      "end": "Current",
+      "description": "O Greenpeace é uma rede de campanha global independente que atua para mudar atitudes e comportamentos, para proteger e conservar o meio ambiente e promover a paz.Compreende 26 organizações independentes de Greenpeace nacional/regional com presença em mais de 55 países da Europa, África, Américas, Ásia e Pacífico, além de uma organização de coordenação e apoio, Greenpeace International."
+    }
+  ],
+  "certificate": [
+    {
+      "course": "Microsoft Azure Data Engineering Associate (DP-203)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2000",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering"
+    },
+    {
+      "course": "Microsoft 365 Fundamentals",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2001",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-365-fundamentals"
+    },
+    {
+      "course": "Microsoft Azure Fundamentals AZ-900 Exam Prep",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2002",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900"
+    },
+    {
+      "course": "Microsoft Azure Data Scientist Associate (DP-100)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2003",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/azure-data-scientist"
+    },
+    {
+      "course": "Microsoft Azure AI Fundamentals AI-900 Exam Prep",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2004",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals"
+    },
+    {
+      "course": "Microsoft Azure Developer Associate (AZ-204)",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2005",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/professional-certificates/azure-developer-associate"
+    },
+    {
+      "course": "Work Smarter with Microsoft Excel",
+      "school": "Coursera",
+      "schoolLogo": "img/college/coursera.jpg",
+      "issueDate": "jan de 2006",
+      "expirationDate": "Sem data de validade",
+      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
+      "url": "https://www.coursera.org/learn/microsoft-excel-work-smarter"
+    }
+  ],
+  "project": [
+    {
+      "name": "Website môi giới việc làm",
+      "description": "Xây dựng đầy đủ chức năng cơ bản của một website môi giới việc làm như đăng nhập google, tạo cv, thanh toán VNPAY",
+      "language": "Laravel, Jquery",
+      "image": "img/project/vscode.png",
+      "stars": "08/2021",
+      "forks": "12/2021",
+      "url": "https://github.com/TranMinhTien271202/datn"
+    },
+    {
+      "name": "Website bán hàng",
+      "description": "bảo vệ môn laravel xây dựng website bán hàng có đầy đu chức năng cơ bản",
+      "language": "Laravel",
+      "image": "img/project/typescript.png",
+      "stars": "04/2021",
+      "forks": "06/2021",
+      "url": "https://github.com/TranMinhTien271202/asm_laravel"
+    }
+  ]
+}

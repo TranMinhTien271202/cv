@@ -2,7 +2,7 @@
   "profile": {
     "name": "Trần Minh Tiến",
     "job": "",
-    "avatar": "img/profile/me.jpg",
+    "avatar": "img/profile/image.jpg",
     "aboutMe": "Tôi là Trần Minh Tiến...",
     "socialNetwork": [
       {
@@ -52,9 +52,10 @@
     "Bootstrap",
     "Tailwind",
     "Laravel",
-    "Vue js",
+    "VueJs",
     "Jquery",
-    "Wordpress"
+    "Wordpress",
+    "SQL"
   ],
   "language": [
     {
@@ -74,7 +75,7 @@
     {
       "job": "Thực tập sinh PHP tại VNP Group",
       "company": "Thực tập sinh",
-      "companyLogo": "img/company/co-chair.jpg",
+      "companyLogo": "img/company/vnp.jpg",
       "location": "Hà Nội",
       "workType": "Toàn thời gian",
       "start": "08/2022",
@@ -84,7 +85,7 @@
     {
       "job": "Thực tập sinh backend tại Nina soft",
       "company": "Thực tập sinh",
-      "companyLogo": "img/company/founder.jpg",
+      "companyLogo": "img/company/ninasoft.png",
       "location": "Hà Nội",
       "workType": "Toàn thời gian",
       "start": "05/2023",
@@ -94,7 +95,7 @@
     {
       "job": "Thực tập sinh Miraway",
       "company": "Thực tập sinh",
-      "companyLogo": "img/company/founder.jpg",
+      "companyLogo": "img/company/miraway.png",
       "location": "Hà Nội",
       "workType": "Toàn thời gian",
       "start": "08/2023",
@@ -105,7 +106,7 @@
   "education": [
     {
       "college": "Cao đẳng FPT Polytechnich",
-      "collegeLogo": "img/college/harvard.jpg",
+      "collegeLogo": "img/college/fpt.jpg",
       "course": "Công nghệ thông tin - Thiết kế Website",
       "start": "2019",
       "end": "Hiện tại",
@@ -194,7 +195,7 @@
       "name": "Website môi giới việc làm",
       "description": "Xây dựng đầy đủ chức năng cơ bản của một website môi giới việc làm như đăng nhập google, tạo cv, thanh toán VNPAY",
       "language": "Laravel, Jquery",
-      "image": "img/project/vscode.png",
+      "image": "img/project/project.png",
       "stars": "08/2021",
       "forks": "12/2021",
       "url": "https://github.com/TranMinhTien271202/datn"
@@ -203,7 +204,7 @@
       "name": "Website bán hàng",
       "description": "bảo vệ môn laravel xây dựng website bán hàng có đầy đu chức năng cơ bản",
       "language": "Laravel",
-      "image": "img/project/typescript.png",
+      "image": "img/project/project.png",
       "stars": "04/2021",
       "forks": "06/2021",
       "url": "https://github.com/TranMinhTien271202/asm_laravel"

@@ -32,7 +32,7 @@ defineProps<{ item: Experience; separator: boolean }>();
             class="order-last inline-flex items-center rounded-lg bg-primary-500/20 px-2 py-1 text-xs font-medium text-primary-500">
             {{ item.workType }}
           </div>
-          <div class="flex items-center gap-1 text-sm font-medium text-gray-400 dark:text-night-400">
+          <div class="flex items-center gap-[2px] text-sm font-medium text-gray-400 dark:text-night-400">
             <HeroIcon :icon="'CalendarIcon'" class="h-4 w-4 shrink-0" />
             <span>{{ item.start }} - {{ item.end }}</span>
           </div>

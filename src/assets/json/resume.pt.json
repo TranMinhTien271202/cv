@@ -3,7 +3,7 @@
     "name": "Trần Minh Tiến",
     "job": "",
     "avatar": "img/profile/image.jpg",
-    "aboutMe": "Tôi là Trần Minh Tiến...",
+    "aboutMe": "<p>Tôi là Trần Minh Tiến năm nay 21 tuổi và đến từ Bắc Giang và mục tiêu của tôi là</p><p>Mục tiêu ngắn hạn</p><ul><li>- Sau khi được nhận vào công ty, tiếp tục học tập kinh nghiệm làm việc từ các anh chị, sau 3 tháng trở thành nhân viên chính thức của công ty và có khả năng đảm nhận tốt các công việc được giao.</li><li>- Sau 6 tháng thành thạo các kỹ năng, bắt đầu trở thành nhân viên lập trình chuyên nghiệp của công ty.</li></ul><p>Mục tiêu dài hạn:</p><ul><li>- Sau 3 năm đầu tiên sẽ nâng cao được trình độ của bản thân và có một mức lương tốt</li><li>- Sau 5 - 6 năm sẽ trở thành một Team Leader của nhóm phát triển phần Website</li><li>- Gắn bó lâu dài với công ty và giúp công ty phát triển trở thành một công ty lớn về công nghệ.</li></ul>",
     "socialNetwork": [
       {
         "name": "Facebook",
@@ -40,7 +40,7 @@
     {
       "icon": "ComputerDesktopIcon",
       "name": "Dạng công việc",
-      "value": "Toàn thời gian"
+      "value": "Full time"
     }
   ],
   "skill": [
@@ -76,7 +76,7 @@
       "company": "Thực tập sinh",
       "companyLogo": "img/company/vnp.jpg",
       "location": "Hà Nội",
-      "workType": "Toàn thời gian",
+      "workType": "Full time",
       "start": "08/2022",
       "end": "01/2023",
       "description": "Được tiếp xúc với livewire để làm ứng dụng chấm công, làm việc nhóm"
@@ -86,7 +86,7 @@
       "company": "Thực tập sinh",
       "companyLogo": "img/company/ninasoft.png",
       "location": "Hà Nội",
-      "workType": "Toàn thời gian",
+      "workType": "Full time",
       "start": "05/2023",
       "end": "08/2023",
       "description": "Được làm việc theo nhóm và làm việc với Framework Laravel và Jquery, xây dụng hệ thống CMS và tương tác với api"
@@ -96,7 +96,7 @@
       "company": "Thực tập sinh",
       "companyLogo": "img/company/miraway.png",
       "location": "Hà Nội",
-      "workType": "Toàn thời gian",
+      "workType": "Full time",
       "start": "08/2023",
       "end": "Hiện tại",
       "description": "Sửa chữa vào bảo trì hệ thống QRX và làm việc với Vue js, Wordpress, sửa lỗi giao diện và tương tác với api"

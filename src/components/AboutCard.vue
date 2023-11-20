@@ -18,7 +18,7 @@ const menu = [
   <div class="card">
     <h2 class="mb-4 text-lg font-semibold dark:text-night-50">{{ $t('about') }}</h2>
     <p class="mb-5 text-sm text-gray-600 dark:text-night-200">
-      {{ resume.profile.aboutMe }}
+      <span v-html="resume.profile.aboutMe"></span>
     </p>
     <!-- <div class="my-5 border-t border-dashed border-gray-200"></div> -->
     <ul class="inline-flex space-x-2 font-semibold">

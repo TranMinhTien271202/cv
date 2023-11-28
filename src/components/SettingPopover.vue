@@ -27,7 +27,7 @@ import SettingPopoverLanguage from './SettingPopoverLanguage.vue';
           <div class="border-b border-dashed border-gray-200 dark:border-night-500"></div>
 
           <!-- Language Settings -->
-          <SettingPopoverLanguage />
+          <!-- <SettingPopoverLanguage /> -->
         </div>
       </div>
     </PopoverPanel>

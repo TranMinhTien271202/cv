@@ -1,4 +1,4 @@
-<!-- <script setup lang="ts">
+<script setup lang="ts">
 import type { Language } from '@/models/Language';
 import { getImagePath } from '@/helpers/Helper';
 
@@ -16,4 +16,4 @@ defineProps<{ item: Language }>();
       <div class="text-xs text-gray-400 dark:text-night-400">{{ item.level }}</div>
     </div>
   </div>
-</template> -->
+</template>

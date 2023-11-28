@@ -3,7 +3,7 @@
     "name": "Trần Minh Tiến",
     "job": "",
     "avatar": "img/profile/image.jpg",
-    "aboutMe": "<p>Tôi là Trần Minh Tiến năm nay 21 tuổi và đến từ Bắc Giang và mục tiêu của tôi là</p><p>Mục tiêu ngắn hạn</p><ul><li>- Sau khi được nhận vào công ty, tiếp tục học tập kinh nghiệm làm việc từ các anh chị, sau 3 tháng trở thành nhân viên chính thức của công ty và có khả năng đảm nhận tốt các công việc được giao.</li><li>- Sau 6 tháng thành thạo các kỹ năng, bắt đầu trở thành nhân viên lập trình chuyên nghiệp của công ty.</li></ul><p>Mục tiêu dài hạn:</p><ul><li>- Sau 3 năm đầu tiên sẽ nâng cao được trình độ của bản thân và có một mức lương tốt</li><li>- Sau 5 - 6 năm sẽ trở thành một Team Leader của nhóm phát triển phần Website</li><li>- Gắn bó lâu dài với công ty và giúp công ty phát triển trở thành một công ty lớn về công nghệ.</li></ul>",
+    "aboutMe": "<p>Em tên là Trần Minh Tiến năm nay 21 tuổi và đến từ Bắc Giang và mục tiêu của em là</p><p>Mục tiêu ngắn hạn</p><ul><li>- Sau khi được nhận vào công ty, tiếp tục học tập kinh nghiệm làm việc từ các anh chị, sau 3 tháng trở thành nhân viên chính thức của công ty và có khả năng đảm nhận tốt các công việc được giao.</li><li>- Sau 6 tháng thành thạo các kỹ năng, bắt đầu trở thành nhân viên lập trình chuyên nghiệp của công ty.</li></ul><p>Mục tiêu dài hạn:</p><ul><li>- Sau 3 năm đầu tiên sẽ nâng cao được trình độ của bản thân và có một mức lương tốt</li><li>- Sau 5 - 6 năm sẽ trở thành một Team Leader của nhóm phát triển phần Website</li><li>- Gắn bó lâu dài với công ty và giúp công ty phát triển trở thành một công ty lớn về công nghệ.</li></ul>",
     "socialNetwork": [
       {
         "name": "Facebook",
@@ -72,34 +72,37 @@
   ],
   "experience": [
     {
-      "job": "Thực tập sinh PHP tại VNP Group",
-      "company": "Thực tập sinh",
+      "job": "Làm việc tại VNP Group",
+      "company": "VNP Group",
       "companyLogo": "img/company/vnp.jpg",
       "location": "Hà Nội",
       "workType": "Full time",
       "start": "08/2022",
       "end": "01/2023",
-      "description": "Được tiếp xúc với livewire để làm ứng dụng chấm công, làm việc nhóm"
+      "url": "",
+      "description": "Em đã thực tập tại VNPGROUP được 3 tháng và làm việc với Framework Laravel, Livewire , xây dụng hệ thống chấm công"
     },
     {
-      "job": "Thực tập sinh backend tại Nina soft",
-      "company": "Thực tập sinh",
+      "job": "Làm việc tại Nina soft",
+      "company": "Nina Soft",
       "companyLogo": "img/company/ninasoft.png",
       "location": "Hà Nội",
       "workType": "Full time",
       "start": "05/2023",
       "end": "08/2023",
-      "description": "Được làm việc theo nhóm và làm việc với Framework Laravel và Jquery, xây dụng hệ thống CMS và tương tác với api"
+      "url": "",
+      "description": "Em đã thực tập tại VNPGROUP được 3 tháng và làm việc với Framework Laravel, Jquery, xây dụng hệ thống CMS và tương tác với api"
     },
     {
-      "job": "Thực tập sinh Miraway",
-      "company": "Thực tập sinh",
+      "job": "Làm việc tại Miraway",
+      "company": "Miraway",
       "companyLogo": "img/company/miraway.png",
       "location": "Hà Nội",
       "workType": "Full time",
       "start": "08/2023",
       "end": "Hiện tại",
-      "description": "Sửa chữa vào bảo trì hệ thống QRX và làm việc với Vue js, Wordpress, sửa lỗi giao diện và tương tác với api"
+      "url": "https://qrx.com.vn/",
+      "description": "Thực tập tại miraway em đã được làm việc với Vue js, Restful api, xây dựng hệ thống CMS, QRX, wordpress"
     }
   ],
   "education": [

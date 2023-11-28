@@ -8,9 +8,7 @@ defineProps<{ item: Experience; separator: boolean }>();
 
 <template>
   <div class="mb-5 flex items-start">
-    <img
-      :src="getImagePath(item.companyLogo)"
-      alt="Avatar"
+    <img :src="getImagePath(item.companyLogo)" alt="Avatar"
       class="h-14 w-14 shrink-0 rounded-xl border-2 border-gray-50 shadow-sm dark:border-night-700" />
     <div class="ml-3 w-full space-y-5">
       <div class="justify-between sm:flex">
@@ -38,7 +36,13 @@ defineProps<{ item: Experience; separator: boolean }>();
           </div>
         </div>
       </div>
+
       <p class="text-sm text-gray-600 dark:text-night-300" v-html="item.description"></p>
+      <a :href="item.url" target="_blank"
+        class="flex items-center gap-1 text-sm font-medium text-gray-400 dark:text-night-400">
+        <HeroIcon :icon="'LinkIcon'" class="h-4 w-4 shrink-0 stroke-2" />
+        <span>Link</span>
+      </a>
       <div v-if="separator" class="border-b border-dashed border-gray-200 dark:border-night-600"></div>
     </div>
   </div>

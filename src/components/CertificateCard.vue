@@ -1,4 +1,4 @@
-<!-- <script setup lang="ts">
+<script setup lang="ts">
 import { computed, ref } from 'vue';
 import CertificateCardItem from './CertificateCardItem.vue';
 import { useResumeStore } from '@/stores/ResumeStore';
@@ -35,4 +35,4 @@ function onPageChange(page: number) {
       :separator="paginatedItems.length > index + 1" />
     <MyPaginate :totalItems="total" :itemsPerPage="itemsPerPage" :maxVisibleButtons="3" @pagechanged="onPageChange" />
   </div>
-</template> -->
+</template>

@@ -1,4 +1,4 @@
-<!-- <script setup lang="ts">
+<script setup lang="ts">
 import type { Certificate } from '@/models/Certificate';
 import HeroIcon from './HeroIcon.vue';
 import { getImagePath } from '@/helpers/Helper';
@@ -35,4 +35,4 @@ defineProps<{ item: Certificate; separator: boolean }>();
       <div v-if="separator" class="hidden border-b border-dashed border-gray-200 dark:border-night-600"></div>
     </div>
   </div>
-</template> -->
+</template>

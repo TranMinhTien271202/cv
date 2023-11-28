@@ -1,4 +1,4 @@
-<!-- <script setup lang="ts">
+<script setup lang="ts">
 import { computed } from 'vue';
 import ExperienceCardItem from './ExperienceCardItem.vue';
 import { useResumeStore } from '@/stores/ResumeStore';
@@ -21,4 +21,4 @@ const total = computed(() => {
       :separator="total > index + 1">
     </ExperienceCardItem>
   </div>
-</template> -->
+</template>

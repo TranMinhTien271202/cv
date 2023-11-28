@@ -37,7 +37,7 @@ onMounted(() => {
         <ProfileCard />
         <!-- End profile  -->
         <!-- Start resume -->
-        <ResumeCard />
+        <!-- <ResumeCard /> -->
         <!-- End resume -->
         <!-- Start user information -->
         <InfoCard />
@@ -46,7 +46,7 @@ onMounted(() => {
         <SkillCard />
         <!-- End skills -->
         <!-- Start Language -->
-        <LanguageCard />
+        <!-- <LanguageCard /> -->
       </div>
       <!-- End left side -->
       <!-- Start right side -->

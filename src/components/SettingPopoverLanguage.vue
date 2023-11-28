@@ -1,4 +1,4 @@
-<!-- <script setup lang="ts">
+<script setup lang="ts">
 import { Listbox, ListboxLabel, ListboxButton, ListboxOptions, ListboxOption } from '@headlessui/vue';
 import { CheckIcon, ChevronUpDownIcon } from '@heroicons/vue/20/solid';
 import { useResumeStore } from '@/stores/ResumeStore';
@@ -75,4 +75,4 @@ watch(language, (language) => {
       </transition>
     </div>
   </Listbox>
-</template> -->
+</template>

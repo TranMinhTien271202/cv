@@ -1,4 +1,4 @@
-<!-- <script setup lang="ts">
+<script setup lang="ts">
 import InfoCardItem from './InfoCardItem.vue';
 import HeroIcon from './HeroIcon.vue';
 import { useResumeStore } from '@/stores/ResumeStore';
@@ -19,4 +19,4 @@ const { resume } = storeToRefs(resumeStore);
       </a>
     </InfoCardItem>
   </div>
-</template> -->
+</template>

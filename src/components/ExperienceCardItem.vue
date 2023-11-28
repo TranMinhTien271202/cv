@@ -36,7 +36,6 @@ defineProps<{ item: Experience; separator: boolean }>();
           </div>
         </div>
       </div>
-
       <p class="text-sm text-gray-600 dark:text-night-300" v-html="item.description"></p>
       <a :href="item.url" target="_blank"
         class="flex items-center gap-1 text-sm font-medium text-gray-400 dark:text-night-400">
